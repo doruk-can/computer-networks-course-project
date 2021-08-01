@@ -1,0 +1,48 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\bin\Debug\server.exe
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\bin\Debug\server.pdb
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.Form1.resources
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\server\server\obj\Debug\server.pdb
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\suuser\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\bin\Debug\server.exe.config
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\bin\Debug\server.exe
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\bin\Debug\server.pdb
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.exe
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.pdb
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step1\server\server\obj\Debug\server.User.resources
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\bin\Debug\server.exe.config
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\bin\Debug\server.exe
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\bin\Debug\server.pdb
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.User.resources
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.exe
+C:\Users\gamew\Documents\Visual Studio 2017\Projects\23631_Furkan_Celik_Step2\server\server\obj\Debug\server.pdb
