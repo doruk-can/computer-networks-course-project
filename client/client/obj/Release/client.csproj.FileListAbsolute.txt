@@ -1,0 +1,10 @@
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\bin\Release\client.exe.config
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\bin\Release\client.exe
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\bin\Release\client.pdb
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.csprojAssemblyReference.cache
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.Form1.resources
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.Properties.Resources.resources
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.csproj.GenerateResource.cache
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.csproj.CoreCompileInputs.cache
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.exe
+C:\Users\Mert_Altunkus\Desktop\Courses\CS408\Recit\socket_programming_examples\client\client\obj\Release\client.pdb
